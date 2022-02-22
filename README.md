@@ -23,7 +23,6 @@
      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
    </a> -->
  </p>
-
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="https://github.com/ozzman84/ozzman84/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>

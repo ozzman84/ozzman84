@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ozzman84/ozzman84/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="https://github.com/ozzman84/ozzman84/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -7,6 +7,8 @@
 <!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
 
 </div>
+
+[![Github](https://img.shields.io/github/followers/ozzman84?label=Follow&style=social)](https://github.com/ozzman84)
 
 <div align="center">
 
@@ -28,6 +30,10 @@ or <a href="mikeosmonson@gmail.com"><b>email</b></a> me.
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzman84&theme=tokyonight&langs_count=10)
+
+
 ---
 
 <i>Follow me around the web:</i><br>
@@ -37,3 +43,16 @@ or <a href="mikeosmonson@gmail.com"><b>email</b></a> me.
 <a href="https://dev.to/ozzman84" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
+
+<!-- ## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://ozzman84.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ozzman84&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzman84&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br> -->
+<!--
+[![ozzman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ozzman84&custom_title=ozzman%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://ozzman84.dev) -->
